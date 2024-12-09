@@ -12,10 +12,10 @@ Objetivo: Automatizar um cenário/caso de teste
 ### Escopo
 * Automatizar o seguinte caso de teste:
 ```
-Cenário: Pesquisar um post no blog da Idwall
-    Quando acesso o blog da Idwall
-    E pesquiso um post informando um título existente
-    Então deve exibir o post pesquisado em uma página de resultados
+Cenário: 
+    Quando acesso 
+    E pesquisar
+    Então 
 ```
 * Utilizar o framework de teste Cypress
 * Criar também um README.md, com as instruções necessárias para executar a automação.
