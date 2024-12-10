@@ -1,6 +1,6 @@
 # Desafio QA
 ## Parte 1 - Planejamento de testes
-Objetivo: Criar um documento descrevendo os testes a serem realizados no site a seguir ([https://app.estuda.com/login](https://bstackdemo.com/))
+Objetivo: Criar um documento descrevendo os testes a serem realizados no site a seguir ((https://bstackdemo.com/))
 ### Escopo
 * Os testes deverão cobrir o login na plataforma e a adição de itens no carrinho.
 * Incluir na validação tudo o que for relevante para uma validação mínima da página.
